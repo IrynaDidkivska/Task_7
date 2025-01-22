@@ -1,0 +1,38 @@
+.subscription-container {
+  text-align: center;
+}
+
+.text {
+  font-size: 18px;
+  color: #777;
+  margin-bottom: 10px;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.email-input {
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid lightgray;
+  outline: transparent;
+  width: 300px;
+}
+
+.submit-button {
+  padding: 20px 40px;
+  font-size: 18px;
+  border: none;
+  background-color: rgb(77, 254, 195);
+  color: white;
+  cursor: pointer;
+  border: 1px solid transparent;
+}
+
+.submit-button:hover {
+  background-color: #0dd549;
+}
